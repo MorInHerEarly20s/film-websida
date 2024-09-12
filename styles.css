@@ -1,8 +1,14 @@
 p {
-    color: blueviolet;
+    color: black;
+    font-size: 1.3rem;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 h1 {
     color: crimson;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
+img {max-width: 650px;}
