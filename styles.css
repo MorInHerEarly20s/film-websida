@@ -1,6 +1,6 @@
 p {
-    color: black;
-    font-size: 1.3rem;
+    color: purple;
+    font-size: 1.2rem;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
@@ -10,5 +10,6 @@ h1 {
     color: crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-size: 1.7rem
 }
 img {max-width: 650px;}
